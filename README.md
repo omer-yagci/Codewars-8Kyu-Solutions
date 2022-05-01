@@ -1,1 +1,1 @@
-# Codewars-8Kyu-Solutions
+#This is my CodeWars 8-kyu Solutions
