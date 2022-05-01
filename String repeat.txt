@@ -1,0 +1,20 @@
+*/
+
+Description:
+
+Write a function called repeatStr which repeats the given string string exactly n times.
+
+/*
+
+
+
+
+
+function repeatStr(n, s) {
+  if (n > 0) {
+    return s.repeat(n);
+  } else {
+    return "";
+  }
+}
+
