@@ -1,0 +1,23 @@
+*/
+
+Description:
+
+Implement a function which convert the given boolean value into its string representation.
+
+Note: Only valid inputs will be given.
+
+/*
+
+
+
+
+function booleanToString(b){
+  if(b == typeof "boolen" && b == true){
+    return b.toString()
+  }else{
+    return b.toString()
+  }
+}
+
+
+
